@@ -1,0 +1,9 @@
+sub dup ↠
+of { !a ( ?a → ?a ?a ) } ∀
+is !a ?a ?a
+end
+
+sub swp ⤨
+of { !a ( ?a ?b → ?b ?a ) } ∀
+is !a !b ?a ?b
+end

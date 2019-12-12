@@ -1,0 +1,8 @@
+{
+    "name": "stal",
+    "provides": {
+        "Stal::Main": "lib/Stal/Main.pm6",
+        "Stal::Parse": "lib/Stal/Parse.pm6",
+        "Stal::Ast": "lib/Stal/Ast.pm6"
+    }
+}
